@@ -1,3 +1,5 @@
+> This tool can help us to scratch changes in different Android SDK.
+
 # Usage
 ```
 python run.py [-v version] [-s status]
